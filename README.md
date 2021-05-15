@@ -1,7 +1,7 @@
 <h1 align="center">Project   Java</h1>
 
 <p align="center">
-    <img src="./logo/java-file.png" width="150">
+    <img src="./images/java-file.png" width="150">
 </p>
 
 <p align="center">
